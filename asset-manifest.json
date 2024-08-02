@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.546940ef.css",
-    "main.js": "/static/js/main.c8e62a55.js",
+    "main.css": "/static/css/main.980f64fd.css",
+    "main.js": "/static/js/main.6b25ec25.js",
     "static/js/9801.bb775ee6.chunk.js": "/static/js/9801.bb775ee6.chunk.js",
     "static/js/8507.2f4b5f09.chunk.js": "/static/js/8507.2f4b5f09.chunk.js",
     "static/js/8397.e0269df5.chunk.js": "/static/js/8397.e0269df5.chunk.js",
@@ -75,11 +75,12 @@
     "static/media/donate.png": "/static/media/donate.1b3c6f77d761157545eb.png",
     "static/media/teleLogo.png": "/static/media/teleLogo.9b3668708410c45831f0.png",
     "static/media/arch.png": "/static/media/arch.4aa43b8318846d7715cf.png",
-    "static/media/vision.png": "/static/media/vision.317557dab04749aa692c.png",
+    "static/media/invertedPyramid.png": "/static/media/invertedPyramid.2bd5c2c52d1c920bcab3.png",
+    "static/media/vision.png": "/static/media/vision.457dfb9d2797d6b649d1.png",
     "static/media/blockchain.png": "/static/media/blockchain.fe529ee058458f8a197a.png",
-    "static/media/invertedPyramid.png": "/static/media/invertedPyramid.bd6d60408107c01c17fd.png",
-    "static/media/SBT.png": "/static/media/SBT.899df651cdc52ef968cd.png",
-    "static/media/saas.png": "/static/media/saas.12139ec7bfc2cc61cf5a.png",
+    "static/media/memo.png": "/static/media/memo.993df203011a60baec13.png",
+    "static/media/SBT.png": "/static/media/SBT.55fafb0f593cf36a8fcd.png",
+    "static/media/saas.png": "/static/media/saas.d9aed0203aa283533bda.png",
     "static/media/bg.png": "/static/media/bg.c86514c4f4d7790e4b34.png",
     "static/media/logo.png": "/static/media/logo.c05562cdff8ef997458f.png",
     "static/media/rating.png": "/static/media/rating.cca8e8f4accef241fe35.png",
@@ -88,9 +89,10 @@
     "static/media/social-media.png": "/static/media/social-media.84e46363b70e5b775a0d.png",
     "static/media/marketing.png": "/static/media/marketing.a9d817f6472a4b234ceb.png",
     "static/media/ton_symbol.png": "/static/media/ton_symbol.875158a750318d207792.png",
+    "static/media/web3.png": "/static/media/web3.59cc7a56d197be3f21fe.png",
     "index.html": "/index.html",
-    "main.546940ef.css.map": "/static/css/main.546940ef.css.map",
-    "main.c8e62a55.js.map": "/static/js/main.c8e62a55.js.map",
+    "main.980f64fd.css.map": "/static/css/main.980f64fd.css.map",
+    "main.6b25ec25.js.map": "/static/js/main.6b25ec25.js.map",
     "9801.bb775ee6.chunk.js.map": "/static/js/9801.bb775ee6.chunk.js.map",
     "8507.2f4b5f09.chunk.js.map": "/static/js/8507.2f4b5f09.chunk.js.map",
     "8397.e0269df5.chunk.js.map": "/static/js/8397.e0269df5.chunk.js.map",
@@ -158,7 +160,7 @@
     "6374.9b01a81c.chunk.js.map": "/static/js/6374.9b01a81c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.546940ef.css",
-    "static/js/main.c8e62a55.js"
+    "static/css/main.980f64fd.css",
+    "static/js/main.6b25ec25.js"
   ]
 }
